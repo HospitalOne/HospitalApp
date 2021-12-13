@@ -1,0 +1,125 @@
+//
+//  PhonebookContact.swift
+//  HospitalOne
+//
+//  Created by Daniil Belikov on 18.10.2019.
+//  Copyright © 2019 Tolyatti City Hospital No.1. All rights reserved.
+//
+
+import Foundation
+
+struct PhonebookContact {
+    let position: String
+    let name: String
+    let phone: String
+    
+}
+
+struct Phonebook {
+    // Hospital administration Contacts.
+    static let contacts: [PhonebookContact] = [
+        PhonebookContact(position: "Chief of hospital".localize(),
+                         name: "Maxim Zamulin".localize(),
+                         phone: "+7(848)222-24-63"),
+        PhonebookContact(position: "Deputy Chief Medical Officer".localize(),
+                         name: "Konstantin Lobkarev".localize(),
+                         phone: "+7(848)222-44-41"),
+        PhonebookContact(position: "Deputy Chief of hospital for Clinical Expert Work".localize(),
+                         name: "Simon Ananikyan".localize(),
+                         phone: "+7(848)276-79-35"),
+        PhonebookContact(position: "Deputy Chief of hospital for Economics and Finance".localize(),
+                         name: "Evgeniy Andreev".localize(),
+                         phone: "+7(848)225-19-95"),
+        PhonebookContact(position: "Head nurse".localize(),
+                         name: "Elena Aizyatova".localize(),
+                         phone: "+7(848)225-03-53"),
+        PhonebookContact(position: "Head of Human Resources".localize(),
+                         name: "Maya Leontiev".localize(),
+                         phone: "+7(848)226-45-62"),
+        PhonebookContact(position: "Head of the Organizational and Methodological Department".localize(),
+                         name: "Tatiana Tashlova".localize(),
+                         phone: "+7(848)222-37-75"),
+        PhonebookContact(position: "Chief Accountant".localize(),
+                         name: "Tatiana Makova".localize(),
+                         phone: "+7(848)222-04-53"),
+        PhonebookContact(position: "Head of Procurement".localize(),
+                         name: "Ekaterina Dmitrieva".localize(),
+                         phone: "+7(848)222-06-96"),
+        PhonebookContact(position: "Head of Planning and Economic Department".localize(),
+                         name: "Alexey Razlivinskih".localize(),
+                         phone: "+7(848)225-19-95"),
+        PhonebookContact(position: "Head of ACS".localize(),
+                         name: "Ilya Ponomarev".localize(),
+                         phone: "+7(848)222-58-59"),
+        PhonebookContact(position: "Head of Reception Department".localize(),
+                         name: "Olga Sustavova".localize(),
+                         phone: "+7(848)222-15-00"),
+        PhonebookContact(position: "Head of the Day hospital".localize(),
+                         name: "Evgeniy Khrist".localize(),
+                         phone: "+7(848)222-34-40"),
+        PhonebookContact(position: "Head of the Urology Department №1".localize(),
+                         name: "Andrey Pankratov".localize(),
+                         phone: "+7(848)222-22-10"),
+        PhonebookContact(position: "Head of the Urology Department №2".localize(),
+                         name: "Alexander Guryanov".localize(),
+                         phone: "+7(848)222-27-45"),
+        PhonebookContact(position: "Head of Surgical Department".localize(),
+                         name: "Alexander Polovkov".localize(),
+                         phone: "+7(848)276-79-33"),
+        PhonebookContact(position: "Head of Coloproctology Department".localize(),
+                         name: "Andrey Igumenov".localize(),
+                         phone: "+7(848)222-16-17"),
+        PhonebookContact(position: "Head of the Nephrology Department".localize(),
+                         name: "Tatiana Nichik".localize(),
+                         phone: "+7(848)222-27-58"),
+        PhonebookContact(position: "Head of the Neurological Department".localize(),
+                         name: "Vera Evdokimova".localize(),
+                         phone: "+7(848)222-07-78"),
+        PhonebookContact(position: "Head of the Department of Anesthesiology and Resuscitation".localize(),
+                         name: "Valeri Davidovich".localize(),
+                         phone: "+7(848)222-04-86"),
+        PhonebookContact(position: "Head of Hemodialysis Department".localize(),
+                         name: "Guzel Timerbulatova".localize(),
+                         phone: "+7(848)222-06-93"),
+        PhonebookContact(position: "Head of Acute Poisoning Department".localize(),
+                         name: "Bahodir Tokhtasunov".localize(),
+                         phone: "+7(848)222-36-64"),
+        PhonebookContact(position: "Head of the Gynecological Department".localize(),
+                         name: "Anna Medvedeva".localize(),
+                         phone: "+7(848)222-04-95"),
+        PhonebookContact(position: "Head of Endocrinology Department".localize(),
+                         name: "Irina Olovyanishnikova".localize(),
+                         phone: "+7(848)222-16-43"),
+        PhonebookContact(position: "Head of the Therapeutic Department №1".localize(),
+                         name: "Denis Grinchik".localize(),
+                         phone: "+7(848)222-16-54"),
+        PhonebookContact(position: "Head of Diagnostics Department".localize(),
+                         name: "Eugene Kapp".localize(),
+                         phone: "+7(848)222-28-09"),
+        PhonebookContact(position: "Head of Outpatient Dialysis Department".localize(),
+                         name: "Guzel Timerbulatova".localize(),
+                         phone: "+7(848)222-37-29"),
+        PhonebookContact(position: "Head of Department of Radiation Diagnostics".localize(),
+                         name: "Dmitriy Filippov".localize(),
+                         phone: "+7(848)222-06-98"),
+        PhonebookContact(position: "Head of Endoscopy Office".localize(),
+                         name: "Natalya Shorina".localize(),
+                         phone: "+7(848)222-22-34"),
+        PhonebookContact(position: "Head of Clinical Diagnostic Laboratory".localize(),
+                         name: "Lubov Bakanova".localize(),
+                         phone: "+7(848)222-98-69"),
+        PhonebookContact(position: "Head of the Transfusiology Department".localize(),
+                         name: "Yury Bezmozgin".localize(),
+                         phone: "+7(848)222-26-84"),
+        PhonebookContact(position: "Head of Hyperbaric Oxygenation Department".localize(),
+                         name: "Anatoly Boboshko".localize(),
+                         phone: "+7(848)222-05-57"),
+        PhonebookContact(position: "Head of Physiotherapy Department".localize(),
+                         name: "Elina Halyastova".localize(),
+                         phone: "+7(848)222-07-62"),
+        PhonebookContact(position: "Head of Operation Unit".localize(),
+                         name: "Vladimir Kachanov".localize(),
+                         phone: "+7(848)222-04-96")
+    ]
+    
+}

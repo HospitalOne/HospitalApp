@@ -1,0 +1,96 @@
+
+/* Class = "UIButton"; normalTitle = "Contact us"; ObjectID = "0iu-32-fvN"; */
+"0iu-32-fvN.normalTitle" = "Cвязаться с нами";
+
+/* Class = "UITextField"; placeholder = "Surname (required)"; ObjectID = "1rO-gq-SJX"; */
+"1rO-gq-SJX.placeholder" = "Фамилия (обязательно)";
+
+/* Class = "UIButton"; normalTitle = "Rate the app"; ObjectID = "2ht-Wt-dOw"; */
+"2ht-Wt-dOw.normalTitle" = "Оценить приложение";
+
+/* Class = "UILabel"; text = "Anonymous mode"; ObjectID = "5XF-XY-pY7"; */
+"5XF-XY-pY7.text" = "Анонимный режим";
+
+/* Class = "UILabel"; text = "Patient ward"; ObjectID = "6Hx-A8-z1a"; */
+"6Hx-A8-z1a.text" = "Палата для пациентов";
+
+/* Class = "UILabel"; text = "Samara region 445009 Russia"; ObjectID = "Bgc-Je-DFa"; */
+"Bgc-Je-DFa.text" = "г. Тольятти, ул. Октябрьская, 68";
+
+/* Class = "UINavigationItem"; title = "Leave feedback"; ObjectID = "CCP-sO-3k7"; */
+"CCP-sO-3k7.title" = "Оставить отзыв";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "E2V-w2-JKZ"; */
+"E2V-w2-JKZ.normalTitle" = "Отправить";
+
+/* Class = "UILabel"; text = "Tel. +7 (8482) 26-45-62"; ObjectID = "GOg-3b-5fN"; */
+"GOg-3b-5fN.text" = "Тел. +7 (8482) 22-17-20";
+
+/* Class = "UILabel"; text = "Your feedback:"; ObjectID = "Hud-Ps-Owl"; */
+"Hud-Ps-Owl.text" = "Ваш отзыв:";
+
+/* Class = "UITextField"; placeholder = "Name (required)"; ObjectID = "IFq-OO-dc6"; */
+"IFq-OO-dc6.placeholder" = "Имя (обязательно)";
+
+/* Class = "UITextField"; placeholder = "E-mail address (required)"; ObjectID = "JDG-dM-Vc5"; */
+"JDG-dM-Vc5.placeholder" = "E-mail (обязательно)";
+
+/* Class = "UITabBarItem"; title = "Feedback"; ObjectID = "LbQ-El-Emo"; */
+"LbQ-El-Emo.title" = "Отзыв";
+
+/* Class = "UILabel"; text = "68k2 Oktyabrskaya street Tolyatti"; ObjectID = "MPD-jU-Q5j"; */
+"MPD-jU-Q5j.text" = "445009, Россия, Самарская обл.,";
+
+/* Class = "UITextField"; placeholder = "Phone number (required)"; ObjectID = "dzP-VN-Y7k"; */
+"dzP-VN-Y7k.placeholder" = "Телефон (обязательно)";
+
+/* Class = "UINavigationItem"; title = "About us"; ObjectID = "kGp-Xv-Eka"; */
+"kGp-Xv-Eka.title" = "О нас";
+
+/* Class = "UILabel"; text = "www.tgkb1.ru"; ObjectID = "q2t-E8-wUc"; */
+"q2t-E8-wUc.text" = "http://тгкб1.рф";
+
+/* Class = "UILabel"; text = "Discharge date:"; ObjectID = "tho-TY-qOv"; */
+"tho-TY-qOv.text" = "Дата выписки/посещения:";
+
+/* Class = "UITabBarItem"; title = "About us"; ObjectID = "qNQ-Yn-vXz"; */
+"qNQ-Yn-vXz.title" = "О нас";
+
+/* Class = "UITabBarItem"; title = "Route"; ObjectID = "ZVf-6x-pia"; */
+"ZVf-6x-pia.title" = "Маршрут";
+
+/* Class = "UINavigationItem"; title = "Route"; ObjectID = "sUZ-7w-FWW"; */
+"sUZ-7w-FWW.title" = "Маршрут";
+
+/* Class = "UITabBarItem"; title = "Appointment"; ObjectID = "eJr-gM-Ldl"; */
+"eJr-gM-Ldl.title" = "Запись";
+
+/* Class = "UINavigationItem"; title = "Make appointment"; ObjectID = "Ylx-pL-AtE"; */
+"Ylx-pL-AtE.title" = "Онлайн-запись";
+
+/* Class = "UITabBarItem"; title = "Phonebook"; ObjectID = "adu-sE-2JL"; */
+"adu-sE-2JL.title" = "Справочник";
+
+/* Class = "UINavigationItem"; title = "Phonebook"; ObjectID = "0vW-MG-wfz"; */
+"0vW-MG-wfz.title" = "Телефонный справочник";
+
+/* Class = "UITextField"; placeholder = "Your doctor (required)"; ObjectID = "zDV-MZ-op7"; */
+"zDV-MZ-op7.placeholder" = "Лечащий врач (обязательно)";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "e2J-Ta-Vd5"; */
+"e2J-Ta-Vd5.normalTitle" = "Сохранить";
+
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "zpk-95-KGp"; */
+"zpk-95-KGp.title" = "Мой профиль";
+
+/* Class = "UITextField"; placeholder = "Enter your name"; ObjectID = "mxW-bA-yuI"; */
+"mxW-bA-yuI.placeholder" = "Введите ваше имя";
+
+/* Class = "UITextField"; placeholder = "Enter your surname"; ObjectID = "fqA-dN-ajg"; */
+"fqA-dN-ajg.placeholder" = "Введите вашу фамилию";
+
+/* Class = "UITextField"; placeholder = "Enter your E-mail"; ObjectID = "eo6-0n-Hzy"; */
+"eo6-0n-Hzy.placeholder" = "Введите ваш e-mail";
+
+/* Class = "UITextField"; placeholder = "Enter your phone number"; ObjectID = "Ilr-h1-caq"; */
+"Ilr-h1-caq.placeholder" = "Введите ваш телефон";

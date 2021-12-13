@@ -1,0 +1,501 @@
+//
+//  Localizable.swift
+//  HospitalOne
+//
+//  Created by Daniil Belikov on 18.10.2019.
+//  Copyright © 2019 Tolyatti City Hospital No.1. All rights reserved.
+//
+
+// MARK: - FeedbackController
+
+"Today" = "Сегодня";
+
+"Is absent" = "Отсутствует";
+
+"Is hidden" = "Скрыто";
+
+"Done" = "Готово";
+
+"Error" = "Произошла ошибка";
+
+"Ok" = "Ок";
+
+"Enter your name or enable anonymous mode." = "Введите ваше имя или включите анонимный режим.";
+
+"Enter your surname or enable anonymous mode." = "Введите вашу фамилию или включите анонимный режим.";
+
+"Enter an E-mail or enable anonymous mode." = "Введите электронную почту или включите анонимный режим.";
+
+"Enter a phone number or enable anonymous mode." = "Введите номер телефона или включите анонимный режим.";
+
+"Wrong format" = "Неверный формат";
+
+"Enter text instead of numbers in the Name field." = "Введите текст вместо цифр в поле «Имя»";
+
+"Enter text instead of numbers in the Surname field." = "Введите текст вместо цифр в поле «Фамилия»";
+
+"Enter text instead of numbers in the E-mail field." = "Введите текст вместо цифр в поле «E-mail»";
+
+"Reviews with profanity, threats or insults will not be considered." = "Отзывы с ненормативной лексикой, угрозами или оскорблениями рассматриваться не будут.";
+
+"Anonymous reviews are noted, but do not affect our decisions." = "Анонимные отзывы принимаются к сведению, но не влияют на наши решения.";
+
+"Connection error" = "Ошибка подключения";
+
+"Check your internet connection and try again." = "Проверьте подключение к интернету и попробуйте снова.";
+
+"Feedback sent!" = "Отзыв отправлен!";
+
+"Thanks for your feedback. To become better, we read and parse each message." = "Спасибо за ваш отзыв. Чтобы стать лучше, мы читаем и разбираем каждое сообщение.";
+
+"Patient feedback" = "Отзыв от пациента";
+
+"Messenger robot" = "Робот-посыльный";
+
+"Feedback from the app" = "Отзыв с приложения";
+
+"Choose your doctor or enable anonymous mode." = "Выберите вашего лечащего врача или включите анонимный режим.";
+
+"Enter text instead of numbers in the Your doctor field." = "Введите текст вместо цифр в поле «Лечащий врач»";
+
+"Abramov Valery Alekseevich" = "Абрамов Валерий Алексеевич";
+
+"Abushaeva Elvina Anatolevna" = "Абушаева Эльвина Анатольевна";
+
+"Agalarov Ruslan Yasinovich" = "Агаларов Руслан Ясинович";
+
+"Aliyev Samir Namig Oglu" = "Алиев Самир Намигович";
+
+"Amitova Marina Takhirovna" = "Амитова Марина Тахировна";
+
+"Ananikyan Simon Spiridonovich" = "Ананикян Симон Спиридонович";
+
+"Bakhitov Rustyam Anasovich" = "Бахитов Рустям Анасович";
+
+"Bezzubova Elena Anatolyevna" = "Беззубова Елена Анатольевна";
+
+"Bezmozgin Yuri Davydovich" = "Безмозгин Юрий Давыдович";
+
+"Boboshko Anatoly Anatolyevich" = "Бобошко Анатолий Анатольевич";
+
+"Bochkarev Igor Alexandrovich" = "Бочкарев Игорь Александрович";
+
+"Vandaeva Natalya Nikolaevna" = "Вандаева Наталья Николаевна";
+
+"Vasiliev Mikhail Borisovich" = "Васильев Михаил Борисович";
+
+"Vlasov Nikolay Valerievich" = "Власов Николай Валериевич";
+
+"Vorobev Leonid Vyacheslavovich" = "Воробьев Леонид Вячеславович";
+
+"Grinchik Denis Gennadievich" = "Гринчик Денис Геннадьевич";
+
+"Gabbasov Rashit Talgatovich" = "Габбасов Рашит Талгатович";
+
+"Gabbasova Irina Vladimirovna" = "Габбасова Ирина Владимировна";
+
+"Gavrilova Elena Aleksandrovna" = "Гаврилова Елена Александровна";
+
+"Gavrilyuk Valeria Viktorovna" = "Гаврилюк Валерия Викторовна";
+
+"Hartman Alexander Stanislavovich" = "Гартман Александр Станиславович";
+
+"Giorgobiani Hatuna Tamazovna" = "Гиоргобиани Хатуна Тамазовна";
+
+"Gladkova Tamara Aleksandrovna" = "Гладкова Тамара Александровна";
+
+"Golubev Vladimir Anatolyevich" = "Голубев Владимир Анатольевич";
+
+"Gorbunov Alexander Alexandrovich" = "Горбунов Александр Александрович";
+
+"Gryanko Roman Alexandrovich" = "Грянко Роман Александрович";
+
+"Guryanov Alexander Serafimovich" = "Гурьянов Александр Серафимович";
+
+"Davidovich Valeriy Vladimirovich" = "Давидович Валерий Владимирович";
+
+"Domakhin Oleg Vladimirovich" = "Домахин Олег Владимирович";
+
+"Dosaev Valentin Ivanovich" = "Домахин Олег Владимирович";
+
+"Evdokimova Vera Vladimirovna" = "Евдокимова Вера Владимировна";
+
+"Egin Anatoly Alekseevich" = "Егин Анатолий Алексеевич";
+
+"Egorova Natalya Aleksandrovna" = "Егорова Наталья Александровна";
+
+"Ermak Liliya Zufarovna" = "Ермак Лилия Зуфаровна";
+
+"Zaitseva Maria Alexandrovna" = "Зайцева Мария Александровна";
+
+"Ivanov Stanislav Sergeevich" = "Иванов Станислав Сергеевич";
+
+"Igumenov Andrey Vasilievich" = "Игуменов Андрей Васильевич";
+
+"Isaeva Svetlana Nikolaevna" = "Исаева Светлана Николаевна";
+
+"Kadyrov Dinar Ilgizovich" = "Кадыров Динар Ильгизович";
+
+"Karasev Mikhail Valentinovich" = "Карасев Михаил Валентинович";
+
+"Karlov Mikhail Sergeevich" = "Карлов Михаил Сергеевич";
+
+"Karpovsky Alexander Borisovich" = "Карповский Александр Борисович";
+
+"Katasonov Mikhail Vyacheslavovich" = "Катасонов Михаил Вячеславович";
+
+"Kachanov Vladimir Akimovich" = "Качанов Владимир Акимович";
+
+"Kirilov Sergey Vasilievich" = "Кирилов Сергей Васильевич";
+
+"Komarov Evgeny Vladimirovich" = "Комаров Евгений Владимирович";
+
+"Konoplyanik Ekaterina Vladimirovna" = "Конопляник Екатерина Владимировна";
+
+"Krugova Lidia Vladimirovna" = "Кругова Лидия Владимировна";
+
+"Kuznetsova Inna Andreevna" = "Кузнецова Инна Андреевна";
+
+"Kuzmenko Evgenia Anatolyevna" = "Кузьменко Евгения Анатольевна";
+
+"Lazarcheva Natalya Viktorovna" = "Лазарчева Наталья  Викторовна";
+
+"Lebedushkina Elena Aleksandrovna" = "Лебедушкина Елена Александровна";
+
+"Lekhtman Dmitry Zakharovich" = "Лехтман Дмитрий Захарович";
+
+"Lobkarev Konstantin Anatolyevich" = "Лобкарев Константин Анатольевич";
+
+"Makarova Olga Gennadievna" = "Макарова Ольга Геннадьевна";
+
+"Matveeva Olga Anatolyevna" = "Матвеева Ольга Анатольевна";
+
+"Medvedev Vladimir Ivanovich" = "Медведев Владимир Иванович";
+
+"Medvedeva Anna Borisovna" = "Медведева Анна Борисовна";
+
+"Miklyukova Valeria Sergeevna" = "Миклюкова Валерия Сергеевна";
+
+"Miridonova Olga Ivanovna" = "Миридонова Ольга Ивановна";
+
+"Nikitchenko Yuri Mikhailovich" = "Никитченко Юрий Михайлович";
+
+"Nichik Tatyana Evgenievna" = "Ничик Татьяна Евгеньевна";
+
+"Olovyanishnikova Irina Vladimirovna" = "Оловянишникова Ирина Владимировна";
+
+"Oruzhmagomedov Magomed Sevdigarovich" = "Оружмагомедов Магомед Севдигарович";
+
+"Otvodnikova Natalia Evgenievna" = "Отводникова Наталья Евгеньевна";
+
+"Pavlov Alexey Nikolaevich" = "Павлов Алексей Николаевич";
+
+"Pankratov Andrey Vasilievich" = "Панкратов Андрей Васильевич";
+
+"Pelevin Andrey Sergeevich" = "Пелевин Андрей Сергеевич";
+
+"Poletaeva Svetlana Vladimirovna" = "Полетаева Светлана Владимировна";
+
+"Polovkov Alexander Sergeevich" = "Половков Александр Сергеевич";
+
+"Postnov Mikhail Konstantinovich" = "Постнов Михаил Константинович";
+
+"Potapov Oleg Alexandrovich" = "Потапов Олег Александрович";
+
+"Pugacheva Daria Alexandrovna" = "Пугачева Дарья Александровна";
+
+"Pulatov Bakhtiyor Shonazyrovich" = "Пулатов Бахтиёр Шоназырович";
+
+"Razlivinsky Leonid Pavlovich" = "Разливинских Леонид Павлович";
+
+"Ramodin Evgeny Ivanovich" = "Рамодин Евгений Иванович";
+
+"Raspevalov Egor Sergeevich" = "Распевалов Егор Сергеевич";
+
+"Rakhimov Muhammadzhon Nematzhonovich" = "Рахимов Мухаммаджон Нематжонович";
+
+"Redozubov Arthur Vladimirovich" = "Редозубов Артур Владимирович";
+
+"Reutov Valery Valentinovich" = "Реутов Валерий Валентинович";
+
+"Rzhevsky Vladimir Igorevich" = "Ржевский Владимир Игоревич";
+
+"Rusakov Alexey Sergeevich" = "Русаков Алексей Сергеевич";
+
+"Rykov Victor Nikolaevich" = "Рыков Виктор Николаевич";
+
+"Sadovsky Eduard Borisovich" = "Садовский Эдуард Борисович";
+
+"Sakeev Alexey Yuryevich" = "Сакеев Алексей Юрьевич";
+
+"Sakeev Oleg Evgenievich" = "Сакеев Олег Евгеньевич";
+
+"Salakhova Asiya Kamilievna" = "Салахова Асия Камильевна";
+
+"Semendyaev Anatoly Sergeevich" = "Семендяев Анатолий Сергеевич";
+
+"Sergeeva Natalya Andreevna" = "Сергеева Наталья Андреевна";
+
+"Sergeeva Tatyana Ivanovna" = "Сергеева Татьяна Ивановна";
+
+"Sergeeva Rosa Nikolaevna" = "Сергеева Роза Николаевна";
+
+"Sergeychev Andrey Konstantinovich" = "Сергейчев Андрей Константинович";
+
+"Sesina Inna Nikolaevna" = "Сесина Инна Николаевна";
+
+"Sivtsov Vadim Vitalievich" = "Сивцов Вадим Витальевич";
+
+"Siluyanova Galina Gennadevna" = "Силуянова Галина Геннадьевна";
+
+"Sokolkina Vera Vladimirovna" = "Соколкина Вера Владимировна";
+
+"Soloviev Alexander Yuryevich" = "Соловьев Александр Юрьевич";
+
+"Sorokin Alexander Nikolaevich" = "Сорокин Александр Николаевич";
+
+"Stepanova Lyudmila Petrovna" = "Степанова Людмила Петровна";
+
+"Stetsenko Albina Fanisovna" = "Стеценко Альбина Фанисовна";
+
+"Tekanova Larisa Vladimirovna" = "Теканова Лариса Владимировна";
+
+"Timerbulatova Guzelia Raisovna" = "Тимербулатова Гузелия Раисовна";
+
+"Tikhomirov Alexander Alexandrovich" = "Тихомиров Александр Александрович";
+
+"Tikhomirova Anna Viktorovna" = "Тихомирова Анна Викторовна";
+
+"Tikhomirova Svetlana Gennadevnav" = "Тихомирова Светлана Геннадьевна";
+
+"Usenko Anton Andreevich" = "Усенко Антон Андреевич";
+
+"Fathullina Nina Alekseevna" = "Фатхуллина Нина Алексеевна";
+
+"Filippov Dmitry Yuryevich" = "Филиппов Дмитрий Юрьевич";
+
+"Firsova Daria Viktorovna" = "Фирсова Дарья Викторовна";
+
+"Fomina Marina Viktorovna" = "Фомина Марина Викторовна";
+
+"Frantseva Julia Abdullovna" = "Францева Юлия Абдулловна";
+
+"Frolov Alexey Vyacheslavovich" = "Фролов Алексей Вячеславович";
+
+"Halyastova Elina Alekseevna" = "Халястова Элина Алексеевна";
+
+"Christ Evgeny Aleksandrovich" = "Христ Евгений Александрович";
+
+"Khudoyberdiev Ibrahim Akhmadovich" = "Худойбердиев Ибрагим Ахмадович";
+
+"Tseretelli Inna Kirillovna" = "Церетелли Инна Кирилловна";
+
+"Cherenkov Nikolay Alekseevich" = "Черенков Николай Алексеевич";
+
+"Cherny Maksim Georgievich" = "Черный Максим Георгиевич";
+
+"Chigrichenko Alexander Mikhailovich" = "Чигриченко Александр Михайлович";
+
+"Shikova Taisiya Nikolaevna" = "Чигриченко Александр Михайлович";
+
+"Shorina Natalia Alexandrovna" = "Шорина Наталия Александровна";
+
+"Yudin Alexander Vasilievich" = "Юдин Александр Васильевич";
+
+"Yagelnik Vladimir Alexandrovich" = "Ягельник Владимир Александрович";
+
+"Yakunkina Alpiada Pavlovna" = "Якунькина Альпиада Павловна";
+
+"Yankov Ivan Evgenievich" = "Яньков Иван Евгеньевич";
+
+"Yankova Ekaterina Aleksandrovna" = "Янькова Екатерина Александровна";
+
+// MARK: - ProfileController
+
+"Hello!" = "Здравствуйте!";
+
+"Fill out the profile and you do not have to enter data in the application." = "Заполните профиль и вам не придётся вводить данные в приложении.";
+
+"Excellent!" = "Отлично!";
+
+"Your data has been saved." = "Ваши данные сохранены.";
+
+// MARK: - RouteController
+
+"Tolyatti City Hospital No.1" = "ГБУЗ СО «ТГКБ №1»";
+
+"68 Oktyabrskaya Street" = "ул. Октябрьская, дом 68";
+
+"Location service is not available." = "Функция определения местоположения недоступна.";
+
+"To enable the location service, make changes to the phone settings." = "Чтобы включить данную функцию, сделайте изменения в настройках телефона.";
+
+"Your location is not available" = "Ваше местоположение недоступно";
+
+"Current location is not found." = "Текущее местоположение не найдено.";
+
+"Destination is not found." = "Пункт назначения не найден.";
+
+"Direction is not avaliable." = "Направление недоступно.";
+
+"Distance to the hospital – " = "Расстояние до больницы – ";
+
+" km." = " км.";
+
+"Travel time – " = "Времени в пути – ";
+
+" min." = " мин.";
+
+// MARK: - PhonebookController
+
+"Chief of hospital" = "Главный врач";
+
+"Deputy Chief Medical Officer" = "Заместитель главного врача по медицинской части";
+
+"Deputy Chief of hospital for Clinical Expert Work" = "Заместитель главного врача по клинико-экспертной работе";
+
+"Deputy Chief of hospital for Economics and Finance" = "Заместитель главного врача по экономике и финансам";
+
+"Head nurse" = "Главная медицинская сестра";
+
+"Head of Human Resources" = "Начальник отдела кадров";
+
+"Head of the Organizational and Methodological Department" = "Заведующий организационно-методическим отделом";
+
+"Chief Accountant" = "Главный бухгалтер";
+
+"Head of Procurement" = "Руководитель контрактной службы";
+
+"Head of Planning and Economic Department" = "Начальник планово-экономического отдела";
+
+"Head of ACS" = "Начальник отдела АСУ";
+
+"Head of Reception Department" = "Заведующий приёмным отделением";
+
+"Head of the Day hospital" = "Заведующий дневным стационаром";
+
+"Head of the Urology Department №1" = "Заведующий урологическим отделением №1";
+
+"Head of the Urology Department №2" = "Заведующий урологическим отделением №2";
+
+"Head of Surgical Department" = "Заведующий хирургическим отделением";
+
+"Head of Coloproctology Department" = "Заведующий колопроктологическим отделением";
+
+"Head of the Nephrology Department" = "Заведующий нефрологическим отделением";
+
+"Head of the Neurological Department" = "Заведующий неврологическим отделением";
+
+"Head of the Department of Anesthesiology and Resuscitation" = "Заведующий отделением анестезиологии и реанимации";
+
+"Head of Hemodialysis Department" = "Заведующий отделением гемодиализа";
+
+"Head of Outpatient Dialysis Department" = "Заведующий отделением амбулаторного диализа";
+
+"Head of Acute Poisoning Department" = "Заведующий отделением острых отравлений";
+
+"Head of the Gynecological Department" = "Заведующий гинекологическим отделением";
+
+"Head of Endocrinology Department" = "Заведующий эндокринологическим отделением";
+
+"Head of the Therapeutic Department №1" = "Заведующий терапевтическим отделением №1";
+
+"Head of Diagnostics Department" = "Заведующий диагностическим отделением";
+
+"Head of Department of Radiation Diagnostics" = "Заведующий отделением лучевой диагностики";
+
+"Head of the Functional Diagnostics Office" = "Заведующий кабинетом функциональной диагностики";
+
+"Head of Endoscopy Office" = "Заведующий кабинетом эндоскопии";
+
+"Head of Clinical Diagnostic Laboratory" = "Заведующий клинико-диагностической лабораторией";
+
+"Head of the Transfusiology Department" = "Заведующий кабинетом трансфузиологии";
+
+"Head of Lithotripsy Office" = "Заведующий кабинетом литотрипсии";
+
+"Head of Hyperbaric Oxygenation Department" = "Заведующий отделением гипербарической оксигенации";
+
+"Head of Physiotherapy Department" = "Заведующий физиотерапевтическим отделением";
+
+"Head of Operation Unit" = "Заведующий операционным блоком";
+
+"Maxim Zamulin" = "Замулин Максим Александрович";
+
+"Konstantin Lobkarev" = "Лобкарев Константин Анатольевич";
+
+"Simon Ananikyan" = "Ананикян Симон Спиридонович";
+
+"Ekaterina Dmitrieva" = "Дмитриева Екатерина Сергеевна";
+
+"Alexey Razlivinskih" = "Разливинских Алексей Леонидович";
+
+"Elena Aizyatova" = "Айзятова Елена Викторовна";
+
+"Maya Leontiev" = "Леонтьева Майа Николаевна";
+
+"Tatiana Tashlova" = "Ташлова Татьяна Александровна";
+
+"Tatiana Makova" = "Макова Татьяна Викторовна";
+
+"Evgeniy Andreev" = "Андреев Евгений Сергеевич";
+
+"Ilya Ponomarev" = "Пономарёв Илья Эдуардович";
+
+"Olga Sustavova" = "Суставова Ольга Альбертовна";
+
+"Evgeniy Khrist" = "Христ Евгений Александрович";
+
+"Andrey Pankratov" = "Панкратов Андрей Васильевич";
+
+"Alexander Guryanov" = "Гурьянов Александр Серафимович";
+
+"Alexander Polovkov" = "Половков Александр Сергеевич";
+
+"Andrey Igumenov" = "Игуменов Андрей Васильевич";
+
+"Tatiana Nichik" = "Ничик Татьяна Евгеньевна";
+
+"Vera Evdokimova" = "Евдокимова Вера Владимировна";
+
+"Guzel Timerbulatova" = "Тимербулатова Гузель Раисовна";
+
+"Bahodir Tokhtasunov" = "Тохтасунов Баходир Абдурахманович";
+
+"Anna Medvedeva" = "Медведева Анна Борисовна";
+
+"Irina Olovyanishnikova" = "Оловянишникова Ирина Владимировна";
+
+"Denis Grinchik" = "Гринчик Денис Геннадьевич";
+
+"Valeri Davidovich" = "Давидович Валерий Владимирович";
+
+"Eugene Kapp" = "Капп Евгений Владимирович";
+
+"Dmitriy Filippov" = "Филиппов Дмитрий Юрьевич";
+
+"Natalya Shorina" = "Шорина Наталья Александровна";
+
+"Lubov Bakanova" = "Баканова Любовь Викторовна";
+
+"Yury Bezmozgin" = "Безмозгин Юрий Давыдович";
+
+"Anatoly Boboshko" = "Бобошко Анатолий Анатольевич";
+
+"Elina Halyastova" = "Халястова Элина Алексеевна";
+
+"Vladimir Kachanov" = "Качанов Владимир Акимович";
+
+// MARK: - AboutUsController
+
+"Letter to the chief of hospital Max Zamulin" = "Письмо главному врачу М.А.Замулину";
+
+"Hello, " = "Здравствуйте, ";
+
+"Tolyatti City Hospital No.1 is one of the largest clinics in the city. Our multidisciplinary medical institution is equipped with the modern medical equipment. The unique experience of hospital specialists and advanced equipment allows us to provide high-tech medical care in difficult and emergency cases. The priority areas of Hospital No.1 are nephrology, urology and coloproctology." = "ГБУЗ СО «Тольяттинская городская клиническая больница №1» — одна из крупнейших клиник в городе. Наше многопрофильное лечебно-профилактическое учреждение оснащено современной медицинской техникой. Уникальный опыт специалистов больницы и передовое оборудование позволяет оказывать высокотехнологичную медицинскую помощь в сложных и экстренных случаях. Приоритетные направления «ТГКБ №1» — нефрология, урология и колопроктология.";
+
+"It is important for us that every patient who turned to the Togliatti City Hospital No.1 for help can receive it quickly, in full and with the best quality. We guarantee the use of effective, modern and safe methods of diagnosis, treatment and prevention. Our specialists take personal and professional responsibility for the result of treatment. Doctors of Hospital No.1 can be trusted!" = "Для нас важно, чтобы каждый пациент, который обратился в «Тольяттинскую городскую клиническую больницу №1» за помощью, смог получить её быстро, в полном объёме и с наилучшим качеством. Мы гарантируем применение эффективных, современных и безопасных методов диагностики, лечения и профилактики. Наши специалисты берут на себя личную и профессиональную ответственность за результат лечения. Врачам «ТГКБ №1» можно доверять!";
+ 
+"Since 2014, the Tolyatti City Hospital No.1 has been included in the system of providing high-tech medical care in the fields of Urology and Gynecology. High-tech medical care is carried out using complex and unique medical technologies, based on the most modern achievements of science and technology, only by highly qualified medical personnel. In addition, an inter-district coloproctology center operates on the basis of the institution, with about 1,000 people treated annually. At Hospital No.1, you will be provided with high-quality medical care at the level of international standards." = "С 2014 года «Тольяттинская городская клиническая больница №1» включена в систему оказания высокотехнологичной медицинской помощи по профилям «Урология» и «Гинекология». Высокотехнологичная медицинская помощь выполняется с использованием сложных и уникальных медицинских технологий, основанных на самых современных достижениях науки и техники, только высококвалифицированным медицинским персоналом. Помимо этого, на базе учреждения функционирует межрайонный центр колопроктологии, лечение в котором проходят около 1 000 человек в год. В «ТГКБ №1» вам окажут высококлассную медицинскую помощь на уровне мировых стандартов.";
+
+"I recommend downloading the app «Tolyatti City Hospital No.1. Here's a link: https://apps.apple.com/app/id1497757302" = "Рекомендую скачать приложение «ТГКБ №1». Вот ссылка: https://apps.apple.com/ru/app/id1497757302";

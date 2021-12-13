@@ -1,0 +1,11 @@
+//
+//  InfoPlist.strings
+//  HospitalOne
+//
+//  Created by Daniil Belikov on 18.10.2019.
+//  Copyright © 2019 Tolyatti City Hospital No.1. All rights reserved.
+//
+
+CFBundleName = "ТГКБ №1";
+
+NSLocationWhenInUseUsageDescription = "Разрешив доступ к вашему местоположению, вы сможете проложить маршрут до больницы.";
